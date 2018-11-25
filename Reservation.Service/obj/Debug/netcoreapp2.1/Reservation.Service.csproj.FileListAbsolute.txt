@@ -1,0 +1,22 @@
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service\bin\Debug\netcoreapp2.1\Reservation.Service.deps.json
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service\bin\Debug\netcoreapp2.1\Reservation.Service.dll
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service\bin\Debug\netcoreapp2.1\Reservation.Service.pdb
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service\obj\Debug\netcoreapp2.1\Reservation.Service.csprojResolveAssemblyReference.cache
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service\obj\Debug\netcoreapp2.1\Reservation.Service.csproj.CoreCompileInputs.cache
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service\obj\Debug\netcoreapp2.1\Reservation.Service.AssemblyInfoInputs.cache
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service\obj\Debug\netcoreapp2.1\Reservation.Service.AssemblyInfo.cs
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service\obj\Debug\netcoreapp2.1\Reservation.Service.dll
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service\obj\Debug\netcoreapp2.1\Reservation.Service.pdb
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service\bin\Debug\netcoreapp2.1\Reservation.Integration.dll
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service\bin\Debug\netcoreapp2.1\Reservation.Integration.pdb
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service\bin\Debug\netcoreapp2.1\Reservation.Service.deps.json
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service\bin\Debug\netcoreapp2.1\Reservation.Service.dll
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service\bin\Debug\netcoreapp2.1\Reservation.Service.pdb
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service\bin\Debug\netcoreapp2.1\Reservation.Integration.dll
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service\bin\Debug\netcoreapp2.1\Reservation.Integration.pdb
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service\obj\Debug\netcoreapp2.1\Reservation.Service.csprojResolveAssemblyReference.cache
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service\obj\Debug\netcoreapp2.1\Reservation.Service.csproj.CoreCompileInputs.cache
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service\obj\Debug\netcoreapp2.1\Reservation.Service.AssemblyInfoInputs.cache
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service\obj\Debug\netcoreapp2.1\Reservation.Service.AssemblyInfo.cs
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service\obj\Debug\netcoreapp2.1\Reservation.Service.dll
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service\obj\Debug\netcoreapp2.1\Reservation.Service.pdb

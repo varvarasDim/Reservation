@@ -1,0 +1,36 @@
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Service.UnitTest.deps.json
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Service.UnitTest.dll
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Service.UnitTest.pdb
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Integration.dll
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Service.dll
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Service.pdb
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Integration.pdb
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\obj\Debug\netcoreapp2.1\Reservation.Service.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\obj\Debug\netcoreapp2.1\Reservation.Service.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\obj\Debug\netcoreapp2.1\Reservation.Service.UnitTest.AssemblyInfoInputs.cache
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\obj\Debug\netcoreapp2.1\Reservation.Service.UnitTest.AssemblyInfo.cs
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\obj\Debug\netcoreapp2.1\Reservation.Service.UnitTest.dll
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\obj\Debug\netcoreapp2.1\Reservation.Service.UnitTest.pdb
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Service.UnitTest.runtimeconfig.json
+C:\Users\dimivarv308\Documents\Visual Studio 2017\Projects\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Service.UnitTest.runtimeconfig.dev.json
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Service.UnitTest.deps.json
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Service.UnitTest.runtimeconfig.json
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Service.UnitTest.runtimeconfig.dev.json
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Service.UnitTest.dll
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Service.UnitTest.pdb
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Integration.dll
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Service.dll
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Service.pdb
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\bin\Debug\netcoreapp2.1\Reservation.Integration.pdb
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\obj\Debug\netcoreapp2.1\Reservation.Service.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\obj\Debug\netcoreapp2.1\Reservation.Service.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\obj\Debug\netcoreapp2.1\Reservation.Service.UnitTest.AssemblyInfoInputs.cache
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\obj\Debug\netcoreapp2.1\Reservation.Service.UnitTest.AssemblyInfo.cs
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\obj\Debug\netcoreapp2.1\Reservation.Service.UnitTest.dll
+C:\Users\dimivarv308\Desktop\SCAN\Reservation\Reservation.Service.UnitTest\obj\Debug\netcoreapp2.1\Reservation.Service.UnitTest.pdb
