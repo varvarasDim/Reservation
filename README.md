@@ -33,7 +33,7 @@ Tools and frameworks used
 
 The project was implemented in VS2017 with use of Resharper and it was implemented in .netcore 2.
 For the unit tests xunit and moq was used. 
-The out-of-the-box dependency injection provider was used of .netcore.
+The out-of-the-box dependency injection provider of .netcore was used.
 
 Execution instructions
 
